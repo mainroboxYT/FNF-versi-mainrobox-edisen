@@ -3,4 +3,4 @@ FNF mod versi mainrobox
 
 Pls donwload
 
-Donwload:
+Donwload: https://github.com/mainroboxYT/FNF-versi-mainrobox-edisen/releases
